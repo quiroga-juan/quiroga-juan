@@ -60,7 +60,7 @@ page-img: "/img/whirlpool.png"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author:
+author: Juan P. Quiroga
   name: Juan P. Quiroga
 
 # Select your active Social Network Links.
