@@ -53,7 +53,7 @@ footer-link-col: "#404040"
 
 navbar-img: "/img/darkdenim3.png"
 #footer-img: "/img/whirpool.png"
-#page-img: "/img/whirlpool.png"
+page-img: "/img/whirlpool.png"
 
 
 # --- Footer options --- #
