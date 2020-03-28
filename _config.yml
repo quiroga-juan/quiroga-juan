@@ -52,16 +52,16 @@ footer-link-col: "#404040"
 # instead of colour
 
 navbar-img: "/img/darkdenim3.png"
-page-img: "/img/whirlpool.png"
 #footer-img: "/img/whirpool.png"
+page-img: "/img/whirlpool.png"
 
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author: Juan P. Quiroga
-  name: Juan P. Quiroga
+author: 
+  name: "Juan P. Quiroga"
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -71,7 +71,7 @@ social-network-links:
   rss: true
   email: "quirogajuanp@gmail.com"
 #  facebook: deanattali
-  github: quiroga-juan
+#  github: 
 #  twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
