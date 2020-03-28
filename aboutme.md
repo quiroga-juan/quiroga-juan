@@ -1,15 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+Mi nombre es Juan Pablo, me encuentro finalizando la carrera de Ingeniería Electrónica en la <a href="http://www.fi.uba.ar/">Universidad de Buenos Aires</a>
 
 ### my history
 
