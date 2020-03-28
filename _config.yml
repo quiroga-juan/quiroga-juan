@@ -60,8 +60,8 @@ page-img: "/img/whirlpool.png"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author: Juan P. Quiroga
-  name: Juan P. Quiroga
+author: 
+  name: "Juan P. Quiroga"
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -71,7 +71,7 @@ social-network-links:
   rss: true
   email: "quirogajuanp@gmail.com"
 #  facebook: deanattali
-  github: "https://github.com/quiroga-juan"
+#  github: 
 #  twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
