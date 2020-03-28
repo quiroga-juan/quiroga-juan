@@ -52,8 +52,9 @@ footer-link-col: "#404040"
 # instead of colour
 
 navbar-img: "/img/dark-triangles.png"
-# footer-img: "/img/bgimage.png"
 page-img: "/img/whirpool.png"
+# footer-img: "/img/bgimage.png"
+
 
 # --- Footer options --- #
 
