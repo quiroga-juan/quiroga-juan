@@ -70,7 +70,7 @@ social-network-links:
   rss: true
   email: "quirogajuanp@gmail.com"
 #  facebook: deanattali
-  github: daattali
+  github: quiroga-juan
 #  twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
@@ -87,8 +87,8 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   linkedin: true
 
 # How to display the link to the website in the footer
