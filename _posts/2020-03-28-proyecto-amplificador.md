@@ -6,9 +6,11 @@ published: true
 ---
 Con mi grupo de trabajo diseñamos y construimos amplificador de audio de 50 Watt de potencia. El proyecto consta de un amplificador clase H, el cual mantiene las mismas características del [clase B](https://es.wikipedia.org/wiki/Amplificador_electr%C3%B3nico#Clase_B) pero aumentando la eficiencia.
 
-![](https://quiroga-juan.github.io/img/amplificador.gif "Prototipo")
+## Construcción del prototipo
 
-## Prueba del prototipo en laboratorio.
+![](https://quiroga-juan.github.io/img/amplificador.gif)
+
+## Prueba del prototipo en laboratorio
 
 [![](http://img.youtube.com/vi/zdCgnxHq0tg/0.jpg)](http://www.youtube.com/watch?v=zdCgnxHq0tg "Prueba de prototipo")
 
