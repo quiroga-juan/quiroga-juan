@@ -8,7 +8,7 @@ Con mi grupo de trabajo diseñamos y construimos amplificador de audio de 50 Wat
 
 ![alt text](https://quiroga-juan.github.io/img/amplificador.gif)
 
-> Entrar [aquí.](https://quiroga-juan.github.io/files/amplicador.pdf) para más detalles.
+> Pulsa [aquí.](https://quiroga-juan.github.io/files/amplicador.pdf) para más detalles.
 
 
 
