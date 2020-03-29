@@ -10,8 +10,13 @@ Con mi grupo de trabajo diseñamos y construimos amplificador de audio de 50 Wat
 
 ## Pequeña muestra del prototipo en laboratorio.
 
-<https://www.youtube.com/watch?v=zdCgnxHq0tg)> 
+<https://www.youtube.com/watch?v=zdCgnxHq0tg> 
 
+<iframe width="560" height="315"
+src="https://www.youtube.com/watch?v=zdCgnxHq0tg" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 > Pulsa [aquí.](https://quiroga-juan.github.io/files/amplicador.pdf) para más detalles.
 
