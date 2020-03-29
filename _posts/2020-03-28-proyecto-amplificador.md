@@ -18,7 +18,7 @@ frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 
-> Pulsa [aquí.](https://quiroga-juan.github.io/files/amplicador.pdf) para más detalles.
+> Pulsa [aquí.](https://quiroga-juan.github.io/files/amplicador.pdf) para ver el desarrollo completo.
 
 
 
