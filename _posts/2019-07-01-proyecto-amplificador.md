@@ -4,6 +4,11 @@ title: Amplificador de Audio
 image: /img/audio-speaker.png
 published: true
 ---
+
+<p> 
+<img src="https://quiroga-juan.github.io/img/fiuba.png" align="right" width="350">
+</p>
+
 Con mi grupo de trabajo diseñamos y construimos amplificador de audio de 50 Watt de potencia. El proyecto consta de un amplificador clase H, el cual mantiene las mismas características del [clase B](https://es.wikipedia.org/wiki/Amplificador_electr%C3%B3nico#Clase_B) pero aumentando la eficiencia.
 
 ## Construcción del prototipo
@@ -16,7 +21,6 @@ Con mi grupo de trabajo diseñamos y construimos amplificador de audio de 50 Wat
 
 > Pulsa [aquí](https://quiroga-juan.github.io/files/amplicador.pdf) para ver el desarrollo completo.
 
-![Desarrollado en](https://quiroga-juan.github.io/img/fiuba.png)
 
 
 
