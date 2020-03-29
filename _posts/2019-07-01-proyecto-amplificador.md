@@ -16,5 +16,7 @@ Con mi grupo de trabajo diseñamos y construimos amplificador de audio de 50 Wat
 
 > Pulsa [aquí](https://quiroga-juan.github.io/files/amplicador.pdf) para ver el desarrollo completo.
 
+![Desarrollado en](https://quiroga-juan.github.io/img/fiuba.png)
+
 
 
