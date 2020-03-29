@@ -8,9 +8,7 @@ Con mi grupo de trabajo diseñamos y construimos amplificador de audio de 50 Wat
 
 ![](https://quiroga-juan.github.io/img/amplificador.gif "Prototipo")
 
-## Pequeña muestra del prototipo en laboratorio.
-
-<https://www.youtube.com/watch?v=zdCgnxHq0tg> 
+## Prueba del prototipo en laboratorio.
 
 [![](http://img.youtube.com/vi/zdCgnxHq0tg/0.jpg)](http://www.youtube.com/watch?v=zdCgnxHq0tg "Prueba de prototipo")
 
