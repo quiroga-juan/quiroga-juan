@@ -10,4 +10,4 @@ Soy Juan Pablo, me encuentro finalizando la carrera de [Ingeniería Electrónica
 	
 Equipo de desarrollo de software de Geodesia - [Instituto Geográfico Nacional](https://www.ign.gob.ar/).
 
->Para más detalles mi [CV](https://quiroga-juan.github.io/files/amplicador.pdf).
+>Para más detalles mi [CV](https://quiroga-juan.github.io/files/cv.pdf).
